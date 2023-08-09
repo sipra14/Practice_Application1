@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a58gNp4EaTkL86EOcU8PCLSxU4JGR/bmQDPbS3nKNCOO/Z/eYxRmO0VCn98l2uswlBFkzpETzAbWyDyAoLoWcA==",
+  "success": true,
+  "projectFilePath": "D:\\practice\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siprap.INFICS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
